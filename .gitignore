@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages/Microsoft.Windows.CppWinRT.2.0.200316.3
+/.vs/WinrtTestProject/v16
+/.vs
+/WinrtTestProject/Debug
